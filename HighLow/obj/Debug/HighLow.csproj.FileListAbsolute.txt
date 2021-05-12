@@ -5,3 +5,10 @@ C:\Users\pavel\source\repos\HighLow\HighLow\obj\Debug\HighLow.csprojAssemblyRefe
 C:\Users\pavel\source\repos\HighLow\HighLow\obj\Debug\HighLow.csproj.CoreCompileInputs.cache
 C:\Users\pavel\source\repos\HighLow\HighLow\obj\Debug\HighLow.exe
 C:\Users\pavel\source\repos\HighLow\HighLow\obj\Debug\HighLow.pdb
+C:\Users\pavel.urvantsev\source\repos\HighLow\HighLow\bin\Debug\HighLow.exe.config
+C:\Users\pavel.urvantsev\source\repos\HighLow\HighLow\bin\Debug\HighLow.exe
+C:\Users\pavel.urvantsev\source\repos\HighLow\HighLow\bin\Debug\HighLow.pdb
+C:\Users\pavel.urvantsev\source\repos\HighLow\HighLow\obj\Debug\HighLow.csprojAssemblyReference.cache
+C:\Users\pavel.urvantsev\source\repos\HighLow\HighLow\obj\Debug\HighLow.csproj.CoreCompileInputs.cache
+C:\Users\pavel.urvantsev\source\repos\HighLow\HighLow\obj\Debug\HighLow.exe
+C:\Users\pavel.urvantsev\source\repos\HighLow\HighLow\obj\Debug\HighLow.pdb

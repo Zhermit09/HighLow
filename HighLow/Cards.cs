@@ -29,6 +29,7 @@ namespace HighLow
         public ConsoleColor GetColor() { return color; }
         public CardsType Type() { return type; }
         public CardsName Name() { return name; }
+        public int Value() {return (int)name; }
     }
 
     public enum CardsType
