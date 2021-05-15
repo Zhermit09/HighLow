@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HighLow
+namespace HighLow_2._0
 {
     class Cards
     {
@@ -21,24 +21,18 @@ namespace HighLow
             this.color = color;
         }
 
-        public void Deal()
-        {
-            Console.WriteLine((int)name + " " + name + " " + type + "" + symbol);
-        }
-
         public ConsoleColor GetColor() { return color; }
         public CardsType Type() { return type; }
         public CardsName Name() { return name; }
-        public int Value() {return (int)name; }
+        public int Value() { return (int)name; }
     }
 
     public enum CardsType
     {
-        CLUBS, DIAMONDS, HEARTS, SPADES, ERROR
+        CLUBS, DIAMONDS, HEARTS, SPADES
     }
     public enum CardsName
     {
-        NONE = 0,
         TWO = 2,
         THREE = 3,
         FOUR = 4,
@@ -51,6 +45,6 @@ namespace HighLow
         JACK = 11,
         QUEEN = 12,
         KING = 13,
-        ACE = 14
+        ACE = 999
     }
 }
